@@ -45,18 +45,15 @@
 	</ul>
 	<br>
 
-
-</ul>
-
 <h3><big>Education</big></h3><br>
 
-<big>Florida Atlantic University</big><br/>
-Bachelor of Science in Nursing<br/>
-Aug 2015- May 2019<br/>
+<big>Florida Atlantic University</big><br>
+Bachelor of Science in Nursing<br>
+Aug 2015- May 2019<br>
 <br>
-<big>Deerfield Beach High School</big> <br/>
-High School Diploma<br/>
-Aug 2011- Jun 2015<br/>
+<big>Deerfield Beach High School</big> <br>
+High School Diploma<br>
+Aug 2011- Jun 2015<br>
 
 		<a href="Page 2.html" target="_blank"> Page 2
 <hr>
@@ -65,9 +62,9 @@ Aug 2011- Jun 2015<br/>
 	Petit.Frandeline@gmail.com
 	<br/>
 	West Palm Beach,FL
-	<br/>
-	(754)610-0313 <br/>
-	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"target=_"blank"> Linkedin Profile </a></big>
+	<br>
+	(754)610-0313 <br>
+	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"target="_blank"> Linkedin Profile </a></big>
 </p>
 </body>
 </html>
@@ -89,7 +86,7 @@ Aug 2011- Jun 2015<br/>
 	<h2>Favorite Music</h2>
 
 	<strong>Natasha Bedingfield " Unwritten"</strong><br><br>
-	This song has been my favorite since I was a child. The way I interpret this song is that there is so much to life and that your "story" is never over.Even if things seem rough now, things can change. This song has always seem to help me put things into perspective.  
+	This song has been my favorite since I was a child. The way I interpret this song is that there is so much to life and that your "story" is never over.Even if things seem rough now, things can change. This song has always seem to help me put things into perspective.  <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7k0a5hYnSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
