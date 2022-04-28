@@ -7,7 +7,7 @@
 	<title> Frandeline Petit</title>
 </head>
 <h1>Frandeline Petit</h1>
-<h2>RN to Tech Resume</h2>
+<h2>RN to Tech </h2>
 <img src="petit.png" width="150" height="250">
 <body>
 <p>
