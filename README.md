@@ -66,6 +66,5 @@ Aug 2011- Jun 2015<br>
 	(754)610-0313 <br>
 	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"> Linkedin Profile </a></big>
 </p>
-</body>
 </html>
 	
