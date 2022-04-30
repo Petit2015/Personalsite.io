@@ -1,4 +1,4 @@
-# Personalsite.io
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,7 +55,7 @@ Aug 2015- May 2019<br>
 High School Diploma<br>
 Aug 2011- Jun 2015<br>
 
-		<a href="Page 2.html" target="_blank"> Page 2
+		<a href="https://petit2015.github.io/personal2/" target="_blank"> Page 2
 <hr>
 
 <p style="color: purple"><big>
@@ -66,5 +66,4 @@ Aug 2011- Jun 2015<br>
 	(754)610-0313 <br>
 	<a href="http:www.linkedin.com/in/frandeline-petit-567347229"> Linkedin Profile </a></big>
 </p>
-</html>
-	
+
